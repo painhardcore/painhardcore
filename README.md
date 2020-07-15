@@ -1,4 +1,5 @@
-### Hi there 👋
+### Here's a hint 
+![how-to-exit](https://images2.imgbox.com/e7/cb/PuzUKIPG_o.jpg)
 
 <!--
 **painhardcore/painhardcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
