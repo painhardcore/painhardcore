@@ -1,4 +1,9 @@
-### Here's a hint 
+### My Setup
+
+Table: IKEA LINNMON WHITE
+Chair: IDEA MARKUS
+Notebook: Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe
+
 ![how-to-exit](https://images2.imgbox.com/e7/cb/PuzUKIPG_o.jpg)
 
 <!--
