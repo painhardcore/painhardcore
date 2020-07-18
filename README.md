@@ -2,7 +2,7 @@
 
 Table: IKEA LINNMON WHITE
 
-Chair: IDEA MARKUS
+Chair: IKEA MARKUS
 
 Notebook: Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe
 
