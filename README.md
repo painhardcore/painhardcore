@@ -4,7 +4,9 @@ Table: IKEA LINNMON WHITE
 
 Chair: IKEA MARKUS
 
-Notebook: Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe
+Notebook: Dell Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe
+
+Monitor: 2x DELL P2417H, PHL 284E5
 
 
 ![how-to-exit](https://images2.imgbox.com/e7/cb/PuzUKIPG_o.jpg)
