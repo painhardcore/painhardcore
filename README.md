@@ -1,10 +1,10 @@
 ### My Setup
 
-Table: IKEA LINNMON WHITE
+Table: IKEA LINNMON WHITE.
 
-Chair: IKEA MARKUS
+Chair: IKEA MARKUS. 
 
-Notebook: Dell Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe
+Notebook: Dell Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe , MacBook Pro 13 2017 i5 8gb 256gb SSD.
 
 Monitor: 2x DELL P2417H, PHL 284E5
 
