@@ -1,3 +1,5 @@
+![Painhardcore github stats](https://github-readme-stats.vercel.app/api?username=painhardcore&count_private=true&theme=buefy)
+
 ### My Setup
 
 Table: IKEA LINNMON WHITE.
