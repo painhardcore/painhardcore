@@ -7,10 +7,6 @@
   </a>
 </p>
 
-
-![Painhardcore github stats](https://github-readme-stats.vercel.app/api?username=painhardcore&count_private=true&theme=buefy&height=100)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=painhardcore&hide=javascript,html,css&theme=buefy&height=100)
-
 ### My Setup
 
 Table: IKEA LINNMON WHITE.
