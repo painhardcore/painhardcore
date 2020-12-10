@@ -12,7 +12,7 @@
 
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=painhardcore.visitor-badg)
 ### My Setup
 
 Table: IKEA LINNMON WHITE.
