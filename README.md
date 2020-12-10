@@ -1,5 +1,15 @@
-![Painhardcore github stats](https://github-readme-stats.vercel.app/api?username=painhardcore&count_private=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=painhardcore&hide=javascript,html,css&theme=buefy)
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=painhardcore&count_private=true&theme=buefy">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painhardcore&hide=javascript,html,css&theme=buefy" />
+  </a>
+</p>
+
+
+![Painhardcore github stats](https://github-readme-stats.vercel.app/api?username=painhardcore&count_private=true&theme=buefy&height=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=painhardcore&hide=javascript,html,css&theme=buefy&height=100)
 
 ### My Setup
 
