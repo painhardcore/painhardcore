@@ -19,7 +19,7 @@ Table: IKEA LINNMON WHITE.
 
 Chair: IKEA MARKUS. 
 
-Notebook: Dell Latitude 7390 2-in-1 i7-8650U 16gb 512gb NVMe , MacBook Pro 13 2017 i5 8gb 256gb SSD.
+Notebook: Dell Precision 5550 i7-10850H 32gb 512gb NVMe , MacBook Pro 13 2017 i5 8gb 256gb SSD.
 
 Monitor: 2x DELL P2417H, PHL 284E5
 <!--
