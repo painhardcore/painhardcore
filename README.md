@@ -19,9 +19,9 @@ Table: IKEA LINNMON WHITE.
 
 Chair: IKEA MARKUS. 
 
-Notebook: Dell Precision 5550 i7-10850H 32gb 512gb NVMe , MacBook Pro 13 2017 i5 8gb 256gb SSD.
+Notebook: MacBook Pro 13 2017 i5 8gb 256gb SSD.
 
-Monitor: 2x DELL P2417H, PHL 284E5
+Monitor: PHL 284E5
 <!--
 **painhardcore/painhardcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
