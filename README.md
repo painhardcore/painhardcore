@@ -13,26 +13,3 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=painhardcore.visitor-badg)
-### My Setup
-
-Table: IKEA LINNMON WHITE.
-
-Chair: IKEA MARKUS. 
-
-Notebook: MacBook Pro 13 2017 i5 8gb 256gb SSD.
-
-Monitor: PHL 284E5
-<!--
-**painhardcore/painhardcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
