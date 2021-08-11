@@ -9,7 +9,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=eqbsst4pmrlxtv3eyb5foawp1&cover_image=true&theme=default">
   </a>
 </p>
-Music playlist - https://open.spotify.com/playlist/0plDFrk79rng9QsMD7j1xi?si=e0dbeae842294f6e
+Electronic music playlist - https://open.spotify.com/playlist/2Fna1edMY3BRKRQgGwNGE3?si=29adeab9f5a9459d
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=painhardcore.visitor-badg)
 
