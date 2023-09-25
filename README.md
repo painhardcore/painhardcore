@@ -23,6 +23,6 @@
 <p align="center" >
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=painhardcore&&count_private=true&theme=transparent" alt="painhardcore" />
-<img src="https://github-readme-stats-self-eight.vercel.app/api?username=painhardcore&show_icons=true&locale=en&count_private=true&theme=transparent" alt="painhardcore" />
+<img src="https://github-readme-stats-self-eight.vercel.app/api?username=painhardcore&show_icons=true&locale=en&count_private=true&theme=transparent" alt="painhardcore" /><br>
 <img src="https://github-readme-stats-self-eight.vercel.app/api/top-langs?username=painhardcore&show_icons=true&locale=en&layout=compact&count_private=true&theme=transparent&hide=pug,javascript,html,css,less,php,smarty" alt="painhardcore" />
 </p>
