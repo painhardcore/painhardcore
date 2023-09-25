@@ -5,7 +5,7 @@
 
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=painhardcore" alt="painhardcore" /></a> </p> --->
 
-- 📝 I regularly posting at [https://t.me/space_tag](https://t.me/space_tag)
+- 📝 I regularly posting at [https://t.me/space_tag](https://t.me/hot_take)
 
 - 💬 Ask me about **Golang, Backend and memes.**
 
