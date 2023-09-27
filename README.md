@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=painhardcore&label=Profile%20views&color=0e75b6&style=flat" alt="painhardcore" /> </p>
 
-<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=painhardcore" alt="painhardcore" /></a> </p> --->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=painhardcore" alt="painhardcore" /></a> </p> 
 
 - 📝 I regularly posting at [https://t.me/hot_take](https://t.me/hot_take)
 
@@ -22,7 +22,7 @@
 
 <p align="center" >
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=painhardcore&&count_private=true&theme=transparent" alt="painhardcore" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=painhardcore&count_private=true&theme=transparent" alt="painhardcore" />
 <img src="https://github-readme-stats-self-eight.vercel.app/api?username=painhardcore&show_icons=true&locale=en&count_private=true&theme=transparent" alt="painhardcore" /><br>
 <img src="https://github-readme-stats-self-eight.vercel.app/api/top-langs?username=painhardcore&show_icons=true&locale=en&layout=compact&count_private=true&theme=transparent&hide=pug,javascript,html,css,less,php,smarty,brainfuck" alt="painhardcore" />
 </p>
