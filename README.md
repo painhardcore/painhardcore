@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=painhardcore&label=Profile%20views&color=0e75b6&style=flat" alt="painhardcore" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=painhardcore&no-bg=true&no-frame=true&column=3" alt="painhardcore" /></a> </p> 
-- 📝 I regularly posting at [https://t.me/hot_take](https://t.me/hot_take)
+- 📝 I regularly posting at my <a href="https://t.me/hot_take" target="blank">TG channel</a>
 
 - 💬 Ask me about **Golang, Backend and memes.**
 
