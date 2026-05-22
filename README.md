@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">A passionate ̶m̶e̶m̶e̶ backend developer.</h3>
+<h3 align="center">A passionate m̶e̶m̶e̶ backend developer.</h3>
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 - 📫 How to reach me painhardcore@gmail.com
